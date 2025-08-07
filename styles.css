@@ -7,8 +7,8 @@ $font-family-monospace:    "Latin Modern Mono", "CMU Typewriter Text", monospace
 $font-family-base:         $font-family-sans-serif;
 
 // Base colors
-$body-bg: #f5faff;           // very light pastel blue background
-$body-color: #3a3a3a;        // dark grey for readable text
+$body-color: #f5faff;           // very light pastel blue background
+$body-bg: #3a3a3a;        // dark grey for readable text
 $link-color: #5ca0d3;        // soft blue for links
 $link-hover-color: #388fc2;  // slightly deeper blue on hover
 
