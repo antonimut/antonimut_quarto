@@ -1,25 +1,32 @@
 /*-- scss:defaults --*/
 
-// Font: Use LaTeX-style fonts
+// Font: LaTeX-style
 $font-family-sans-serif: "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif;
 $font-family-serif:        $font-family-sans-serif;
 $font-family-monospace:    "Latin Modern Mono", "CMU Typewriter Text", monospace;
 $font-family-base:         $font-family-sans-serif;
 
-// Base colors – white body, grey UI
-$body-bg: #ffffff;           // white main content background
-$body-color: #2a2a2a;        // dark grey text for readability
-$link-color: #444444;        // medium grey for links
-$link-hover-color: #000000;  // black on hover
+// Color Palette
+$color-deep-navy:   #1B3C53;
+$color-mid-blue:    #456882;
+$color-soft-beige:  #D2C1B6;
+$color-off-white:   #F9F3EF;
 
-// UI accents – soft greys
-$border-color: #dcdcdc;      // light grey for borders and separators
+// Body & Typography
+$body-bg: $color-off-white;         // light vintage off-white background
+$body-color: $color-deep-navy;      // deep navy text for contrast
+$link-color: $color-mid-blue;       // medium blue links
+$link-hover-color: darken($color-mid-blue, 10%); // darker on hover
 
-// Code blocks – neutral greys
-$code-block-bg: #f5f5f5;     // light grey for code block background
-$code-block-bg-alpha:  #444444;
-$code-color: #1a1a1a;        // dark grey code text
+// Borders & Accents
+$border-color: $color-soft-beige;   // beige tone for dividers and lines
 
-// Navbar and footer – light grey instead of white
-$navbar-bg:  #f1f1f1;        // soft light grey for navbar
-$footer-bg:  #000000;        // same grey for footer
+// Code blocks
+$code-block-bg: lighten($color-deep-navy, 35%); // softer blue for background
+$code-block-bg-alpha: -0.85;
+$code-color: $color-off-white;      // light code text on dark bg
+
+// Navbar and footer
+$navbar-bg: $color-deep-navy;       // solid navy bar
+$footer-bg: $color-deep-navy;       // match navbar
+
