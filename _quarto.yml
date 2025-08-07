@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "antonimut_quarto_blog"
+  title: "Mut Piña, Antoni (PhD)"
   navbar:
     right:
       - about.qmd
