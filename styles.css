@@ -3,27 +3,24 @@
 // Font: Metropolis
 $font-family-sans-serif: "Metropolis";
 
-// Color Palette
-$color-deep-navy:   #1B3C53;
-$color-mid-blue:    #456882;
-$color-soft-beige:  #D2C1B6;
-$color-off-white:   #F9F3EF;
+// Color Palette – Only white and light blue
+$color-white:       #ffffff;
+$color-light-blue:  #f2f8fc;  // very light pastel blue
 
 // Body & Typography
-$body-bg: $color-off-white;         // light vintage off-white background
-$body-color: $color-deep-navy;      // deep navy text for contrast
-$link-color: $color-mid-blue;       // medium blue links
-$link-hover-color: darken($color-mid-blue, 10%); // darker on hover
+$body-bg: $color-white;             // clean white background
+$body-color: #222222;               // nearly black text for contrast
+$link-color: #6699cc;               // soft light blue links
+$link-hover-color: #4477aa;         // slightly darker blue on hover
 
 // Borders & Accents
-$border-color: $color-soft-beige;   // beige tone for dividers and lines
+$border-color: #e0f0fa;             // soft pale blue border
 
 // Code blocks
-$code-block-bg: lighten($color-deep-navy, 35%); // softer blue for background
+$code-block-bg: $color-light-blue;  // soft blue code background
 $code-block-bg-alpha: -0.85;
-$code-color: $color-off-white;      // light code text on dark bg
+$code-color: #1a1a1a;               // dark code text for contrast
 
 // Navbar and footer
-$navbar-bg: $color-deep-navy;       // solid navy bar
-$footer-bg: $color-deep-navy;       // match navbar
-
+$navbar-bg: $color-light-blue;      // light blue header
+$footer-bg: $color-light-blue;      // light blue footer
