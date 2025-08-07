@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
-// Font: LaTeX-style
-$font-family-sans-serif: "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif;
+// Font: Metropolis
+$font-family-sans-serif: "Metropolis", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif:        $font-family-sans-serif;
-$font-family-monospace:    "Latin Modern Mono", "CMU Typewriter Text", monospace;
+$font-family-monospace:    "Courier New", monospace;
 $font-family-base:         $font-family-sans-serif;
 
 // Color Palette
