@@ -17,7 +17,7 @@ $border-color: #dcdcdc;      // light grey for borders and separators
 
 // Code blocks – neutral greys
 $code-block-bg: #f5f5f5;     // light grey for code block background
-$code-block-bg-alpha: -0.85;
+$code-block-bg-alpha:  #444444;
 $code-color: #1a1a1a;        // dark grey code text
 
 // Navbar and footer – light grey instead of white
