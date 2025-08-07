@@ -1,5 +1,5 @@
 ---
-title: ":::{style="font-family: monospace"}About me:::"
+title: "About me"
 subtitle: "Mut Piña, Antoni (PhD)"
 about:
   template: jolla
