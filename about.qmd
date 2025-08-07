@@ -16,12 +16,12 @@ about:
 ---
 
 ```{=html}
-<div>
-    <img src="profile.jpeg" 
+<div style="text-align: center;">
+    <img src="foto_blog.jpeg" 
          alt="Profile photo" 
-         style="width:250px; height:250px; border-radius:50%; object-fit:cover; float:left; margin-right:20px;">
+         style="width:250px; height:250px; border-radius:50%; object-fit:cover;">
 </div>
-````
+```
 
 ```{=html}
 <div style="text-align: left;">
