@@ -6,20 +6,20 @@ $font-family-serif:        $font-family-sans-serif;
 $font-family-monospace:    "Latin Modern Mono", "CMU Typewriter Text", monospace;
 $font-family-base:         $font-family-sans-serif;
 
-// Base colors
-$body-bg: #f5faff;           // very light pastel blue background
-$body-color: #ffffff;        // dark grey for readable text
-$link-color: #5ca0d3;        // soft blue for links
-$link-hover-color: #388fc2;  // slightly deeper blue on hover
+// Base colors – all shades of blue
+$body-bg: #eaf6ff;           // very light sky blue background
+$body-color: #0f3554;        // dark blue for readable text
+$link-color: #5ca0d3;        // pastel blue for links
+$link-hover-color: #2e8ac6;  // deeper blue on hover
 
-// Additional UI accents
-$border-color: #e0e0e0;      // soft light grey for dividers
+// UI accents – blue tones
+$border-color: #b3d7f2;      // light blue borders
 
-// Code blocks
-$code-block-bg: #f0f4f8;     // light bluish-grey for code
+// Code blocks – light blue
+$code-block-bg: #dceeff;     // soft blue for code background
 $code-block-bg-alpha: -0.85;
-$code-color: #2a2a2a;
+$code-color: #003366;        // dark navy blue for code text
 
-// Other elements
-$navbar-bg:  #f5faff;         // white navbar for clarity
-$footer-bg: #f5faff;         // match background with body
+// Navbar and footer – light blues
+$navbar-bg:  #e0f0ff;        // very light blue
+$footer-bg:  #e0f0ff;        // same as navbar
