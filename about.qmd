@@ -13,16 +13,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
 ```{=html}
-<div style="text-align: center;">
+<div>
     <img src="profile.jpeg" 
          alt="Profile photo" 
-         style="width:250px; height:250px; border-radius:50%; object-fit:cover;">
+         style="width:250px; height:250px; border-radius:50%; object-fit:cover; float:left; margin-right:20px;">
 </div>
-```
+````
 
 ### What I do?
 
@@ -35,4 +34,3 @@ I hold a double bachelor’s degree in Law and Business Economics from the Unive
 ### Personal
 
 I was born in Palma, Mallorca, and have maintained a strong connection to the Balearic Islands throughout my academic and professional career. My path has taken me from Barcelona to Brussels, Amsterdam, Leuven, and Leiden, enriching my perspective on law and economics in international contexts. I enjoy working at the intersection of disciplines, bridging legal theory with empirical evidence to address pressing societal challenges. Outside academia, I have a deep appreciation for Mediterranean culture and the unique balance between tradition and innovation that defines my home region.
-
