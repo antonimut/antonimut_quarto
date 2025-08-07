@@ -1,5 +1,5 @@
 ---
-title: "Mut Piña, Antoni (PhD)"
+title: "Blog"
 listing:
   contents: posts
   sort: "date desc"
