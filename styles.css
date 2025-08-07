@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Font: Arial Light
-$font-family-sans-serif: "Arial", "Arial Light", "Helvetica Neue", Helvetica, sans-serif;
+$font-family-sans-serif: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif:        $font-family-sans-serif;
 $font-family-monospace:    "Courier New", monospace;
 $font-family-base:         $font-family-sans-serif;
