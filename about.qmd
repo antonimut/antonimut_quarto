@@ -2,7 +2,7 @@
 title: "About"
 image: profile.jpeg
 about:
-  template: trestles
+  template: jolla
   links:
     - icon: twitter
       text: Twitter
