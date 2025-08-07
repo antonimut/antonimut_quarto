@@ -16,4 +16,15 @@ about:
 
 ---
 
-About this blog
+### What I do?
+
+I am an academic specializing in the intersection of law, economics, and empirical research, with a focus on consumer protection, financial services, and digital technologies. My work combines rigorous legal analysis with data-driven methods to better understand consumer vulnerability and contractual transparency. I have taught and conducted research in diverse legal and economic contexts, contributing to scholarly debates, public policy, and practical reforms. Currently, as an Assistant Professor at the University of the Balearic Islands, I focus on Financial Economics while continuing to advance research projects that integrate law, economics, and technology.
+
+### Academic Background
+
+I hold a double bachelor’s degree in Law and Business Economics from the University of Barcelona, where I also earned a Master’s in Political Analysis and a postgraduate degree in Consumer Law and Mediation. In 2024, I completed my PhD in Consumer Contract Law with honors, supervised by Dr. Immaculada Barral Viñals, combining legal scholarship with economic analysis and empirical research. My doctoral work explored how transparency and vulnerability interact in financial services, using both legal theory and quantitative methods. Alongside my legal training, I am pursuing a Bachelor in Applied Data Science, further enhancing my expertise in R, Python, and statistical analysis. My academic journey includes research stays at KU Leuven, the University of Amsterdam, and the University of the Balearic Islands, as well as a postdoctoral position at Leiden University’s eLaw department.
+
+### Personal
+
+I was born in Palma, Mallorca, and have maintained a strong connection to the Balearic Islands throughout my academic and professional career. My path has taken me from Barcelona to Brussels, Amsterdam, Leuven, and Leiden, enriching my perspective on law and economics in international contexts. I enjoy working at the intersection of disciplines, bridging legal theory with empirical evidence to address pressing societal challenges. Outside academia, I have a deep appreciation for Mediterranean culture and the unique balance between tradition and innovation that defines my home region.
+
