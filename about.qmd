@@ -17,7 +17,7 @@ about:
 
 ```{=html}
 <div style="text-align: center;">
-    <img src="foto_blog.jpeg" 
+    <img src="profile.jpeg" 
          alt="Profile photo" 
          style="width:250px; height:250px; border-radius:50%; object-fit:cover;">
 </div>
