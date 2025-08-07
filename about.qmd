@@ -25,7 +25,6 @@ about:
 
 <div style="text-align: left;">
 
-:::{style="font-family: monospace"}
 
 ### What I do?
 
@@ -41,5 +40,4 @@ I was born in Palma, Mallorca, and have maintained a strong connection to the Ba
 
 </div>
 
-:::
 
