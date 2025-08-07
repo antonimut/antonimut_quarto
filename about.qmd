@@ -16,6 +16,14 @@ about:
 
 ---
 
+```{=html}
+<div style="text-align: center;">
+    <img src="foto_blog.jpeg" 
+         alt="Profile photo" 
+         style="width:250px; height:250px; border-radius:50%; object-fit:cover;">
+</div>
+```
+
 ### What I do?
 
 I am an academic specializing in the intersection of law, economics, and empirical research, with a focus on consumer protection, financial services, and digital technologies. My work combines rigorous legal analysis with data-driven methods to better understand consumer vulnerability and contractual transparency. I have taught and conducted research in diverse legal and economic contexts, contributing to scholarly debates, public policy, and practical reforms. Currently, as an Assistant Professor at the University of the Balearic Islands, I focus on Financial Economics while continuing to advance research projects that integrate law, economics, and technology.
