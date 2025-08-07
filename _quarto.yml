@@ -13,8 +13,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - sandstone
     css: styles.css
 
 editor: visual
