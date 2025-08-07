@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "About me"
+subtitle: "Mut Piña, Antoni (PhD)"
 about:
   template: jolla
   links:
