@@ -1,15 +1,18 @@
 /*-- scss:defaults --*/
 
-// Base document colors
-$body-bg: #181818;
-$body-color: #ccc;
-$link-color: #75AADB;
+// Font: Use LaTeX-style fonts
+$font-family-sans-serif: "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif;
+$font-family-serif:        $font-family-sans-serif;
+$font-family-monospace:    "Latin Modern Mono", "CMU Typewriter Text", monospace;
+$font-family-base:         $font-family-sans-serif;
+
+// Base Colors - Pastel Blues
+$body-bg: #e6f0fa;            // very light pastel blue
+$body-color: #2b3a42;         // dark blue-gray for contrast
+$link-color: #7aaed6;         // soft blue
+$link-hover-color: #4f91c2;   // medium pastel blue
 
 // Code blocks
-$code-block-bg-alpha: -.9;
-
-// Use a monospace font globally
-$font-family-sans-serif: monospace;
-$font-family-serif: monospace;
-$font-family-monospace: monospace;
-$font-family-base: monospace;
+$code-block-bg: #d9eaf7;      // light blue background for code
+$code-block-bg-alpha: -0.85; // slight transparency if used
+$code-color: #003049;         // darker code color for readability
