@@ -13,8 +13,8 @@ website:
 format:
   html:
     theme: 
-      - sandstone
-      - cerulean
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
     css: styles.css
 
 editor: visual
