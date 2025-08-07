@@ -12,6 +12,6 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: styles.scss
+    theme: styles.css
 editor: visual
 
