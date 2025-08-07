@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
-// Font: System Sans-Serif
-$font-family-sans-serif: sans-serif;
+// Font: LaTeX-style
+$font-family-sans-serif: "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif;
 $font-family-serif:        $font-family-sans-serif;
-$font-family-monospace:    "Courier New", monospace;
+$font-family-monospace:    "Latin Modern Mono", "CMU Typewriter Text", monospace;
 $font-family-base:         $font-family-sans-serif;
 
 // Color Palette – Only white and light blue
