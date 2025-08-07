@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 
-$font-family-sans-serif: sans-serif;
+$font-family-sans-serif: monospace;
 $font-family-serif:        $font-family-sans-serif;
 $font-family-monospace:    "Courier New", monospace;
 $font-family-base:         $font-family-sans-serif;
