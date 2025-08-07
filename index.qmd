@@ -1,5 +1,5 @@
 ---
-title: "antonimut_quarto_blog"
+title: "Mut Piña, Antoni (PhD)"
 listing:
   contents: posts
   sort: "date desc"
