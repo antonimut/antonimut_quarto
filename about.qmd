@@ -25,7 +25,7 @@ about:
 
 <div style="text-align: left;">
 
-:::{style="font-family: helvetica"}
+:::{style="font-family: sans-serif"}
 
 ### What I do?
 
