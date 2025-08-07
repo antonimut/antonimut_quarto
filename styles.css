@@ -1,4 +1,5 @@
 /*-- scss:defaults --*/
+
 // Base document colors
 $body-bg: #181818;
 $body-color: #ccc;
@@ -6,3 +7,9 @@ $link-color: #75AADB;
 
 // Code blocks
 $code-block-bg-alpha: -.9;
+
+// Use a monospace font globally
+$font-family-sans-serif: monospace;
+$font-family-serif: monospace;
+$font-family-monospace: monospace;
+$font-family-base: monospace;
