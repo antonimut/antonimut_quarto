@@ -11,6 +11,27 @@ body {
   color: #333333;
 }
 
+h1 {
+  color: #2c3e50;
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  color: #34495e;
+  font-size: 2em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  color: #465d71;
+  font-size: 1.5em;
+  margin-top: 1.2em;
+}
+
 /* Color palette — white + light blue only */
 $color-white:       #ffffff;
 $color-light-blue:  #f2f8fc; // very light pastel blue
