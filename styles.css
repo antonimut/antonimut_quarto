@@ -1,8 +1,12 @@
 /*-- scss:defaults --*/
 
-$font-family-base: "Work Sans", sans-serif;
-
-
+/* Typography — Work Sans */
+$font-family-sans-serif: "Work Sans", sans-serif;
+$font-family-base: $font-family-sans-serif;
+$headings-font-family: $font-family-sans-serif;
+$headings-font-weight: 600;   // bold but not too heavy
+$body-font-weight: 400;
+$body-line-height: 1.65;
 
 /* Color palette — white + light blue only */
 $color-white:       #ffffff;
