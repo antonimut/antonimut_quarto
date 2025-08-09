@@ -12,6 +12,8 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: styles.css
+    theme: styles.scss
+    include-in-header:
+      - text: |
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Poppins:wght@600&display=swap" rel="stylesheet">
 editor: visual
-
