@@ -1,7 +1,8 @@
 /*-- scss:defaults --*/
 
-$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI",
-  Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-sans-serif: "Inter", sans-serif;
+$headings-font-family: "Poppins", sans-serif;
+
 
 
 /* Color palette — white + light blue only */
